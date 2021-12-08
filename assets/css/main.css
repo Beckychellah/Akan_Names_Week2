@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap');
 
-.contact {
+.akana {
     font-family: 'Poppins', sans-serif;
 }
 section{
     padding: 100px 0;
 }
-.contact .contact-content{
+.akana .akana-content{
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -19,57 +19,57 @@ section{
     margin: auto;
 }
 
-/* contact section styling */
-.contact .contact-content .column{
+/* akana section styling */
+.akana .akana-content .column{
     width: calc(50% - 30px);
 }
-.contact .contact-content .text{
+.akana .akana-content .text{
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 10px;
 }
-.contact .contact-content .left p{
+.akana .akana-content .left p{
     text-align: justify;
 }
-.contact .contact-content .left .icons{
+.akana .akana-content .left .icons{
     margin: 10px 0;
 }
-.contact .contact-content .row{
+.akana .akana-content .row{
     display: flex;
     height: 65px;
     align-items: center;
 }
-.contact .contact-content .row .info{
+.akana .akana-content .row .info{
     margin-left: 30px;
 }
-.contact .contact-content .row i{
+.akana .akana-content .row i{
     font-size: 25px;
     color: crimson;
 }
-.contact .contact-content .info .head{
+.akana .akana-content .info .head{
     font-weight: 500;
 }
-.contact .contact-content .info .sub-title{
+.akana .akana-content .info .sub-title{
     color: #333;
 }
-.contact .right form .fields{
+.akana .right form .fields{
     display: flex;
 }
-.contact .right form .field,
-.contact .right form .fields .field{
+.akana .right form .field,
+.akana .right form .fields .field{
     height: 45px;
     width: 100%;
     margin-bottom: 15px;
 }
-.contact .right form .textarea{
+.akana .right form .textarea{
     height: 80px;
     width: 100%;
 }
-.contact .right form .name{
+.akana .right form .name{
     margin-right: 10px;
 }
-.contact .right form .field input,
-.contact .right form .textarea textarea{
+.akana .right form .field input,
+.akana .right form .textarea textarea{
     height: 100%;
     width: 100%;
     border: 1px solid lightgrey;
@@ -80,15 +80,15 @@ section{
     font-family: 'Poppins', sans-serif;
     transition: all 0.3s ease;
 }
-.contact .right form .field input:focus,
-.contact .right form .textarea textarea:focus{
+.akana .right form .field input:focus,
+.akana .right form .textarea textarea:focus{
     border-color: #b3b3b3;
 }
-.contact .right form .textarea textarea{
+.akana .right form .textarea textarea{
   padding-top: 10px;
   resize: none;
 }
-.contact .right form .button-area{
+.akana .right form .button-area{
   display: flex;
   align-items: center;
 }
