@@ -2,6 +2,7 @@
 
 .akana {
     font-family: 'Poppins', sans-serif;
+    background-color: thistle;
 }
 section{
     padding: 100px 0;
@@ -15,11 +16,10 @@ section{
 
 .max-width{
     max-width: 1300px;
-    padding: 0 80px;
+    padding: 0 50px;
     margin: auto;
 }
 
-/* akana section styling */
 .akana .akana-content .column{
     width: calc(50% - 30px);
 }
